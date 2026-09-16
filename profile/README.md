@@ -1,12 +1,12 @@
-## Hi there 👋
+# Poop Agency
 
-<!--
+Welcome to the **Poop Agency** GitHub organization.
 
-**Here are some ideas to get you started:**
+## What we do
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We build and maintain projects, automations, and shared resources for the team.
+
+## Repositories
+
+- Browse all repositories: <https://github.com/Poop-Agency?tab=repositories>
+- Check pinned repositories on the organization profile for highlighted projects.
